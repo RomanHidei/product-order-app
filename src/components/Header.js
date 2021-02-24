@@ -7,18 +7,6 @@ import Bucket from './Pages/Bucket'
 
 
 export default class Header extends Component {
-    // constructor(props) {
-    //     super (props)
-    //     this.state= { 
-    //         add=[]
-    //     }
-    //     this.handleClick = this.handleClick.bind(this);
-    // }
-    // handleClick() {
-    //     this.setState({
-
-    //     });
-    // }
 
     render() {
         return (
