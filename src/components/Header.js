@@ -7,6 +7,12 @@ import Bucket from './Pages/Bucket'
 
 
 export default class Header extends Component {
+    constructor() {
+        super();
+        this.state ={
+            
+        }
+    }
 
     render() {
         return (

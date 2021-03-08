@@ -49,7 +49,7 @@ function Cards(props) {
       </CardContent>
       <Divider variant="middle" />
       <CardActions className={classes.action}>
-        <Button variant="contained" color="primary" className={classes.button} >Add to Bucket</Button>
+        <Button onClick= {this.onIncrease } variant="contained" color="primary" className={classes.button} >Add to Bucket</Button>
       </CardActions>
 
     </Card>
